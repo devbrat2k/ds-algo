@@ -1,4 +1,4 @@
-package com.devbrat2k.ds.linklist;
+package com.devbrat2k.ds.linklist.dll;
 
 import java.util.stream.IntStream;
 

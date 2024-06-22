@@ -1,4 +1,4 @@
-package com.devbrat2k.ds.linklist;
+package com.devbrat2k.ds.linklist.dll;
 
 public class Node<T> {
     private Node next;
